@@ -6,7 +6,6 @@ Me interesa aprender y aplicar mis conocimientos en programación, estructuras d
 
 ## 🎓 Educación
 - 📚 **Universidad Libre de Colombia** 🎓
-- Cursos online en [Platzi](https://platzi.com), [Udemy](https://udemy.com)
 
 ## 🛠️ Habilidades Técnicas
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
